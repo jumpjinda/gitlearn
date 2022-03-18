@@ -1,0 +1,8 @@
+# it will run all unittest by multiple test files
+
+python -m unittest
+
+# run unittest with more description
+
+python -m unittest -v
+
